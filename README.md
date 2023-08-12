@@ -6,6 +6,7 @@
 * try to run wifi and bt
 * repair audio
 * check hdmi port
+* change oc debug ver. to release
 * repair sleeping (likely small chance to do it)
 * add macos sonoma support (when it will came out from beta)
 
@@ -19,7 +20,7 @@ WORKS:
 * touchpad and trackpoint
 
 DOESN'T WORK or I don't know yet:
-* wifi and bt (due to unsupported card)
+* wifi and bt (due to unsupported card, but there are intel kexts already)
 * audio
 * hdmi port
 * 3,5mm audio port
