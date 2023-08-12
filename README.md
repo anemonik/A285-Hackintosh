@@ -1,4 +1,4 @@
-<img src="screenshot.png" width="500" height="">
+<img src="screenshot.png" width="675" height="">
 
 ! THINGS TO DO: 
 * repair of color depth
