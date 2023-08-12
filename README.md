@@ -1,3 +1,5 @@
+<img src="screenshot.png" width="500" height="">
+
 ! THINGS TO DO: 
 * repair of color depth
 * repair booting (not always boots to the os)
