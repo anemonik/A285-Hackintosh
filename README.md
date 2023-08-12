@@ -4,3 +4,4 @@ THINGS TO DO:
 * repair audio
 * check hdmi port
 * repair sleeping (likely small chance to do it)
+* add macos sonoma support (when it will came out from beta)
