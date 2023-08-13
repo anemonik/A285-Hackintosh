@@ -47,6 +47,7 @@ To prepare OpenCore to install macOS you need to generate your own serial number
 * MicroSD slot
 
 ⚠️ Doesn't work:
+* Color banding (broken)
 * Wifi & BT (due to unsupported MediaTek card, but there are itlwm kexts already)
 * Webcam (hanging up whole os when trying to open photo booth app)
 * Microphone (detects internal one, but doesn't work)
