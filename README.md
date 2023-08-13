@@ -26,27 +26,27 @@ BIOS Settings: <br>
 To prepare OpenCore to install macOS you need to generate your own serial number, UUID and MLB for `MacBookPro16,3`. You can do that with a script called [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
 
 📝 Things to do: 
-* repair color banding
-* add fan control to yogasmc
-* change oc debug ver. to release
-* repair not working things (microphone on amd - small chance for repair)
-* add macos sonoma support (when it will came out from beta)
+* Repair color banding
+* Add fan control to yogasmc
+* Change oc debug ver. to release
+* Repair not working things (small chance for it for now)
+* Add macOS Sonoma support (when it will came out from beta)
 
 
 ✅ Working:
-* graphic acceleration 
-* backlight keyboard
-* audio (with 3,5mm jack port)
-* display (there is problem with color banding)
-* usb ports
-* battery 
-* keyboard 
-* touchpad and trackpoint
-* hdmi port
-* micro sd slot
+* Graphic Acceleration 
+* Keyboard (/w backlight)
+* Audio (/w 3,5mm jack port)
+* Display (there is a problem with color banding)
+* USB ports
+* Battery 
+* Keyboard 
+* Touchpad and Trackpoint
+* HDMI port
+* MicroSD slot
 
 ⚠️ Doesn't work:
-* wifi and bt (due to unsupported mediatek card, but there are itlwm kexts already)
-* webcam (hanging up whole os when trying to open photo booth app)
-* microphone (detects internal one, but doesn't work)
-* sleeping
+* Wifi & BT (due to unsupported MediaTek card, but there are itlwm kexts already)
+* Webcam (hanging up whole os when trying to open photo booth app)
+* Microphone (detects internal one, but doesn't work)
+* Sleeping
