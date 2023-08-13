@@ -1,7 +1,0 @@
-MacBookPro15,2
-
-Type:         MacBookPro15,2
-Serial:       C02YPSZZJHCC
-Board Serial: C02919802GUJH4RAD
-SmUUID:       70949D54-F907-4833-A5C3-F9B2384C66C1
-Apple ROM:    68D93C641C4E
