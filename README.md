@@ -4,38 +4,36 @@
 
 <details>
 💻 My configuration: <br>
-| Category  | Component                            |
-| --------- | ------------------------------------ |
-| CPU       | AMD Ryzen 3 2300U 4-cores            |
-| GPU       | AMD Vega 6 512MB                     |
-| SSD       | Samsung 970 Evo Plus 500GB           |
-| Memory    | 8GB DDR4 2400Mhz                     |
-| Screen    | 12,5" 1920x1080 IPS                  |
-| WiFi & BT | MediaTek MT7921 (unsupported)        |
-<br>
-| BIOS Settings:                       |
-| ------------------------------------ |
-| Fingerprint reader - OFF             |
-| CSM - OFF                            |
-| Secure Boot - OFF                    |
-| Wake on LAN - OFF                    |
-| Anti-Theft Current Setting- OFF      |
-| Intel VT-d - ON                      |
-| Intel Virtualization Technology - ON |
-| Excution Prevention - ON             |
-| Security Chip - OFF                  |
+| Category  | Component                            |<br>
+| --------- | ------------------------------------ |<br>
+| CPU       | AMD Ryzen 3 2300U 4-cores            |<br>
+| GPU       | AMD Vega 6 512MB                     |<br>
+| SSD       | Samsung 970 Evo Plus 500GB           |<br>
+| Memory    | 8GB DDR4 2400Mhz                     |<br>
+| Screen    | 12,5" 1920x1080 IPS                  |<br>
+| WiFi & BT | MediaTek MT7921 (unsupported)        |<br><br>
+
+BIOS Settings: <br>
+| Fingerprint reader - OFF             |<br>
+| CSM - OFF                            |<br>
+| Secure Boot - OFF                    |<br>
+| Wake on LAN - OFF                    |<br>
+| Anti-Theft Current Setting- OFF      |<br>
+| Intel VT-d - ON                      |<br>
+| Intel Virtualization Technology - ON |<br>
+| Excution Prevention - ON             |<br>
+| Security Chip - OFF                  |<br>
 </details>
 
 To prepare OpenCore to install macOS you need to generate your own serial number, UUID and MLB for `MacBookPro16,3`. You can do that with a script called [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
 
 📝 Things to do: 
-<details>
 * repair color banding
 * add fan control to yogasmc
 * change oc debug ver. to release
 * repair not working things (microphone on amd - small chance for repair)
 * add macos sonoma support (when it will came out from beta)
-</details>
+
 
 ✅ Working:
 * graphic acceleration 
