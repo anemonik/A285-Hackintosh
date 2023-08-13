@@ -1,6 +1,7 @@
 <img src="screenshot.png" width="675" height="" >
 
 # macOS Ventura 13.5 on Lenovo ThinkPad A285
+Based on OC 0.9.4 Debug version.
 
 <details>
 💻 My configuration: <br>
