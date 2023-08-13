@@ -4,8 +4,6 @@
 
 <details>
 💻 My configuration: <br>
-| Category  | Component                            |<br>
-| --------- | ------------------------------------ |<br>
 | CPU       | AMD Ryzen 3 2300U 4-cores            |<br>
 | GPU       | AMD Vega 6 512MB                     |<br>
 | SSD       | Samsung 970 Evo Plus 500GB           |<br>
