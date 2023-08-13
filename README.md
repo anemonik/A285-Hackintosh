@@ -1,30 +1,25 @@
 <img src="screenshot.png" width="675" height="">
 
 ! THINGS TO DO: 
-* repair of color depth
-* repair booting (not always boots to the os)
-* try to run wifi and bt
-* repair audio
-* check hdmi port
+* repair color banding
+* add fan control to yogasmc
 * change oc debug ver. to release
-* repair sleeping (likely small chance to do it)
+* repair not working things (likely small chance to do it)
 * add macos sonoma support (when it will came out from beta)
 
 WORKS:
-* graphic acceleration (nootedred)
+* graphic acceleration 
 * backlight keyboard
-* display backlight
+* audio (with 3,5mm jack port)
+* display (there is problem with color banding)
 * usb ports
-* battery info
+* battery 
 * keyboard 
 * touchpad and trackpoint
-
-DOESN'T WORK or I don't know yet:
-* wifi and bt (due to unsupported card, but there are intel kexts already)
-* audio
 * hdmi port
-* 3,5mm audio port
-* webcam 
-* microphone
+* micro sd slot
+
+DOESN'T WORK:
+* wifi and bt (due to unsupported mediatek card, but there are itlwm kexts already)
+* webcam & microphone
 * sleeping
-* wwan
